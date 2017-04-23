@@ -2,214 +2,193 @@
 /* -+ Created with <3 by Zach (PlexiWood) +- */
 
 @import url('https://fonts.googleapis.com/css?family=Arimo:400,700&subset=latin-ext,vietnamese');
-
-html{
-	color: #333;
-	font-family: 'Arimo', sans-serif;
+html {
+    color: #333;
+    font-family: 'Arimo', sans-serif;
 }
-
-a{
-	color: #6254E8;
-	text-decoration: none;
+a {
+    color: #6254E8;
+    text-decoration: none;
 }
-
-code{
-	display: block;
-	padding: 10px 15px;
-	color: #333;
-	background: #eee;
-	margin-top: 5px;
-	margin-bottom: 5px;
-	border-radius: 5px;
+code {
+    display: block;
+    padding: 10px 15px;
+    color: #333;
+    background: #eee;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
 }
-
-.page{
-	background: #fff;
-	width: 80%;
-	position: absolute;
-	left: 0;
-	right: 0;
-	margin: 0 auto;
-	height: auto;
+.page {
+    background: #fff;
+    width: 80%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    height: auto;
 }
-
-.container{
-	margin: 20px;
+.container {
+    margin: 20px;
 }
-
-.heading{
-	font-weight: 400;
-	font-size: 26pt;
-	border-bottom: 1px solid grey;
-	width: 100%;
+.heading {
+    font-weight: 400;
+    font-size: 26pt;
+    border-bottom: 1px solid grey;
+    width: 100%;
 }
-
-.button{
-	padding: 7px 14px;
-	margin: 2px;
-	background: #185F8F;
-	color: white;
-	font-family: 'Arimo', sans-serif;
-	font-size: 10pt;
-	border: 1px solid #185F8F;
-	border-radius: 5px;
+.button {
+    padding: 7px 14px;
+    margin: 2px;
+    background: #185F8F;
+    color: white;
+    font-family: 'Arimo', sans-serif;
+    font-size: 10pt;
+    border: 1px solid #185F8F;
+    border-radius: 5px;
 }
-
 /* button styles */
-.success{
-	background: #52BF63;
-	border: 1px solid #52BF63;
-}
 
-.primary{
-	background: #6254E8;
-	border: 1px solid #6254E8;
+.success {
+    background: #52BF63;
+    border: 1px solid #52BF63;
 }
-
-.warning{
-	background: #BFBC52;
-	border: 1px solid #BFBC52;
+.primary {
+    background: #6254E8;
+    border: 1px solid #6254E8;
 }
-
-.danger{
-	background: #BF5252;
-	border: 1px solid #BF5252;
+.warning {
+    background: #BFBC52;
+    border: 1px solid #BFBC52;
+}
+.danger {
+    background: #BF5252;
+    border: 1px solid #BF5252;
 }
 /* + outlines */
-.button-outline{
-	background: white;
-	color: #185F8F;
-	border: 1px solid #185F8F;
-}
 
-.success-outline{
-	background: white;
-	color: #52BF63;
-	border: 1px solid #52BF63;
+.button-outline {
+    background: white;
+    color: #185F8F;
+    border: 1px solid #185F8F;
 }
-
-.primary-outline{
-	background: white;
-	color: #6254E8;
-	border: 1px solid #6254E8;
+.success-outline {
+    background: white;
+    color: #52BF63;
+    border: 1px solid #52BF63;
 }
-
-.warning-outline{
-	background: white;
-	color: #BFBC52;
-	border: 1px solid #BFBC52;
+.primary-outline {
+    background: white;
+    color: #6254E8;
+    border: 1px solid #6254E8;
 }
-
-.danger-outline{
-	background: white;
-	color: #BF5252;
-	border: 1px solid #BF5252;
+.warning-outline {
+    background: white;
+    color: #BFBC52;
+    border: 1px solid #BFBC52;
 }
-
+.danger-outline {
+    background: white;
+    color: #BF5252;
+    border: 1px solid #BF5252;
+}
 /* blockquotes */
-blockquote{
-	padding: 15px 15px;
-	margin: 0;
-	width: auto;
-	border-left: 3px solid #636363;
-	background: #eee;
-	color: #636363;
-}
 
-cite{
-	font-style: italic;
-	color: #787878;
+blockquote {
+    padding: 15px 15px;
+    margin: 0;
+    width: auto;
+    border-left: 3px solid #636363;
+    background: #eee;
+    color: #636363;
 }
-
+cite {
+    font-style: italic;
+    color: #787878;
+}
 /* measurements */
-.afull{
-	min-width: 100%;
-	width: 100%;
-	display: inline-block;
-}
 
-.ahalf{
-	min-width: 50%;
-	width: 50%;
-	display: inline-block;
+.afull {
+    min-width: 100%;
+    width: 100%;
+    display: inline-block;
 }
-
-.athird{
-	min-width: 33.3333333333%;
-	width: 33.3333333333%;
-	display: inline-block;
+.ahalf {
+    min-width: 50%;
+    width: 50%;
+    display: inline-block;
 }
-
-.afourth{
-	min-width: 25%;
-	width: 25%;
-	display: inline-block;
+.athird {
+    min-width: 33.3333333333%;
+    width: 33.3333333333%;
+    display: inline-block;
 }
-
-.afifth{
-	min-width: 20%;
-	width: 20%;
-	display: inline-block;
+.afourth {
+    min-width: 25%;
+    width: 25%;
+    display: inline-block;
 }
-
-.asixth{
-	min-width: 16.6666666667%;
-	width: 16.6666666667%;
-	display: inline-block;
+.afifth {
+    min-width: 20%;
+    width: 20%;
+    display: inline-block;
 }
-
-.aseventh{
-	min-width: 14.2857142857%;
-	width: 14.2857142857%;
-	display: inline-block;
+.asixth {
+    min-width: 16.6666666667%;
+    width: 16.6666666667%;
+    display: inline-block;
 }
-
-.aeighth{
-	min-width: 12.5%;
-	width: 12.5%;
-	display: inline-block;
+.aseventh {
+    min-width: 14.2857142857%;
+    width: 14.2857142857%;
+    display: inline-block;
+}
+.aeighth {
+    min-width: 12.5%;
+    width: 12.5%;
+    display: inline-block;
 }
 /* forms */
-input{
-	padding: 10px 0px;
-	font-family: 'Arimo', sans-serif;
-	font-size: 12pt;
-	border-radius: 10px;
-	margin-bottom: 5px;
-	margin-top: 5px;
-	text-align: left;
-	text-indent: 10px;
-}
 
-textarea{
-	background: #eee;
-	border-left: none;
-	border-right: none;
-	border-top: none;
-	border-bottom: 1px solid #6254E8;
-	font-size: 12pt;
-	color: #6254E8;
-	resize: none;
-	width: 50%;
-	min-width: 50%;
-	height: auto;
+input {
+    padding: 10px 0px;
+    font-family: 'Arimo', sans-serif;
+    font-size: 12pt;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    text-align: left;
+    text-indent: 10px;
 }
-
+textarea {
+    background: #eee;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 1px solid #6254E8;
+    font-size: 12pt;
+    color: #6254E8;
+    resize: none;
+    width: 50%;
+    min-width: 50%;
+    height: auto;
+}
 /* page response */
+
 @media screen and (max-width: 720px) {
-	.page{
-		width: 100%;
-		top: 0;
-		bottom: 0;
-		height: 100%;
-		padding: 0;
-	}
-	textarea{
-		width: 100%;
-		min-width: 100%;
-	}
-	input{
-		width: 100%;
-		min-width: 100%;
-	}
+    .page {
+        width: 100%;
+        top: 0;
+        bottom: 0;
+        height: 100%;
+        padding: 0;
+    }
+    textarea {
+        width: 100%;
+        min-width: 100%;
+    }
+    input {
+        width: 100%;
+        min-width: 100%;
+    }
 }
