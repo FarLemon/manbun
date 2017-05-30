@@ -4,7 +4,7 @@ A Simple, Lightweight, and Responsive Framework ;)
 
 ## Demo - V1.0
 
-View [demo](https://plexiwood.github.io/manbun/)
+View [demo](https://swellful.github.io/manbun/)
 
 ## Getting Started
 
@@ -43,13 +43,13 @@ Finally, Make sure your Webpage has access to it using the link tag
 ## Running the tests
 
 Flick the toggle switch of your Web-server and Refresh your Webpage - VWOLLA! Instant Manbun.
-(Turn on your Web-server, eg "Apache" , "NGNINX" , "IIS")
+(Turn on your Web-server, eg "Apache" , "NGINX" , "IIS")
 
 ## Authors
 
-* **Zachary** - *Creator* - [PlexiWood](https://github.com/PlexiWood)
+* **Zachary** - *Creator* - [PlexiWood](https://github.com/swellful)
 
-See also the list of [contributors](https://github.com/PlexiWood/manbun/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/swellful/manbun/contributors) who participated in this project.
 
 ## License
 
