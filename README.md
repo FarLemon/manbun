@@ -47,7 +47,7 @@ Flick the toggle switch of your Web-server and Refresh your Webpage - VWOLLA! In
 
 ## Authors
 
-* **Zachary** - *Creator* - [PlexiWood](https://github.com/swellful)
+* **Zachary** - *Creator* - [swellful](https://github.com/swellful)
 
 See also the list of [contributors](https://github.com/swellful/manbun/contributors) who participated in this project.
 
