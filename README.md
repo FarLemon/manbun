@@ -4,7 +4,7 @@ A Simple, Lightweight, and Responsive Framework ;)
 
 ## Demo - V1.0
 
-View [demo](https://swellful.github.io/manbun/)
+View [demo](https://twines.github.io/manbun/)
 
 ## Getting Started
 
@@ -47,9 +47,9 @@ Flick the toggle switch of your Web-server and Refresh your Webpage - VWOLLA! In
 
 ## Authors
 
-* **Zachary** - *Creator* - [swellful](https://github.com/swellful)
+* **Zachary** - *Front End Developer* - [twines](https://github.com/twines)
 
-See also the list of [contributors](https://github.com/swellful/manbun/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/twines/manbun/contributors) who participated in this project.
 
 ## License
 
